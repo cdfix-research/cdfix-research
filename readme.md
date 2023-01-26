@@ -3,8 +3,8 @@
 This repository contains the code for **CDFixCode: Context-aware Dual Learning for Automated Program Repair** and the [Page](https://cdfixresearch.github.io/CDFixPage/) that has visualized data from table 1 to table 4.
 
 # Experimental Results and Data: https://cdfixresearch.github.io/CDFixPage/
-# Source Code: https://github.com/cdfixresearch/cdfixresearch#Instruction_to_Run_CDFix
-# Demo: https://github.com/cdfixresearch/cdfixresearch#Demo
+# Source Code: https://github.com/cdfix-research/cdfix-research#Instruction_to_Run_CDFix
+# Demo: https://github.com/cdfix-research/cdfix-research#Demo
 
 ## Contents
 
